@@ -1,0 +1,2193 @@
+{
+  "id": 1,
+  "name": "Weinquiz",
+  "questions": [
+    {
+      "id": 19,
+      "position": 0,
+      "questionType": "StartChoice",
+      "text": null,
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "answers": [
+        {
+          "id": 132,
+          "text": "Mache das Quiz",
+          "score": 0,
+          "nextQuestion": 1
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "questionType": "MultiplePictureChoice",
+      "text": "Kaffee oder Tee?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 1",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Kaffee",
+          "score": 1,
+          "nextQuestion": 2,
+          "picture": "tailorwine_coffee01.png"
+        },
+        {
+          "id": 2,
+          "text": "Tee",
+          "score": 2,
+          "nextQuestion": 3,
+          "picture": "tailorwine_tea01.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "questionType": "MultiplePictureChoice",
+      "text": "Welchen Kaffee w\u00fcrdest du w\u00e4hlen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 1.1",
+      "answers": [
+        {
+          "id": 3,
+          "text": "Kaffee schwarz",
+          "score": 1,
+          "nextQuestion": 4,
+          "picture": "tailorwine_coffee_black.png"
+        },
+        {
+          "id": 4,
+          "text": "Kaffee mit Zucker",
+          "score": 2,
+          "nextQuestion": 4,
+          "picture": "tailorwine_coffee_blacksugar.png"
+        },
+        {
+          "id": 5,
+          "text": "Cappuccino",
+          "score": 3,
+          "nextQuestion": 4,
+          "picture": "tailorwine_coffee_cappuccino.png"
+        },
+        {
+          "id": 6,
+          "text": "Latte Macchiato",
+          "score": 4,
+          "nextQuestion": 4,
+          "picture": "tailorwine_coffee_latte.png"
+        },
+        {
+          "id": 7,
+          "text": "Caramel Cream Frappucino",
+          "score": 5,
+          "nextQuestion": 4,
+          "picture": "tailorwine_coffee_frapuccino.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "position": 2,
+      "questionType": "MultiplePictureChoice",
+      "text": "Welchen Tee w\u00fcrdest du w\u00e4hlen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 1.1",
+      "answers": [
+        {
+          "id": 8,
+          "text": "Schwarztee",
+          "score": 1,
+          "nextQuestion": 4,
+          "picture": "tailorwine_tea_schwarztee.png"
+        },
+        {
+          "id": 9,
+          "text": "Gr\u00fcner Tee",
+          "score": 2,
+          "nextQuestion": 4,
+          "picture": "tailorwine_tea_gruentee.png"
+        },
+        {
+          "id": 10,
+          "text": "Tee mit Milch",
+          "score": 3,
+          "nextQuestion": 4,
+          "picture": "tailorwine_tea_gruenteemilch.png"
+        },
+        {
+          "id": 11,
+          "text": "Fr\u00fcchtetee",
+          "score": 4,
+          "nextQuestion": 4,
+          "picture": "tailorwine_tea_fruechtetee.png"
+        },
+        {
+          "id": 12,
+          "text": "Fr\u00fcchtetee mit Honig\/Zucker",
+          "score": 5,
+          "nextQuestion": 4,
+          "picture": "tailorwine_tea_fruechtetee_honig.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "position": 3,
+      "questionType": "MultiplePictureChoice",
+      "text": "Fleisch, Fisch oder Vegetarisch\/Vegan",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 2",
+      "answers": [
+        {
+          "id": 13,
+          "text": "Fleisch",
+          "score": 1,
+          "nextQuestion": 5,
+          "picture": "tailorwine_fleisch02.png"
+        },
+        {
+          "id": 14,
+          "text": "Fisch",
+          "score": 2,
+          "nextQuestion": 6,
+          "picture": "tailorwine_fisch01.png"
+        },
+        {
+          "id": 15,
+          "text": "Vegetarisch\/Vegan",
+          "score": 3,
+          "nextQuestion": 7,
+          "picture": "tailorwine_veggie01.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "position": 4,
+      "questionType": "MultipleChoice",
+      "text": "Wieviel Zitrone darf es zum Schnitzel sein?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 2.1",
+      "picture": "tailorwine_zitrone_schnitzel.png",
+      "answers": [
+        {
+          "id": 16,
+          "text": "Ich mag es nur ohne Zitrone",
+          "score": 1,
+          "nextQuestion": 8
+        },
+        {
+          "id": 17,
+          "text": "Ein kleiner Spritzer ist okay",
+          "score": 2,
+          "nextQuestion": 8
+        },
+        {
+          "id": 18,
+          "text": "Eine H\u00e4lfte ist gut",
+          "score": 3,
+          "nextQuestion": 8
+        },
+        {
+          "id": 19,
+          "text": "Meistens bestelle ich Zitrone nach",
+          "score": 4,
+          "nextQuestion": 8
+        },
+        {
+          "id": 20,
+          "text": "Herr Ober, man reiche mir den Zitronenbaum",
+          "score": 5,
+          "nextQuestion": 8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "position": 4,
+      "questionType": "MultipleChoice",
+      "text": "Wieviel Zitrone darf es zum Fisch sein?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 2.1",
+      "picture": "tailorwine_fisch_zitrone.png",
+      "answers": [
+        {
+          "id": 21,
+          "text": "Ich mag es nur ohne Zitrone",
+          "score": 1,
+          "nextQuestion": 8
+        },
+        {
+          "id": 22,
+          "text": "Ein kleiner Spritzer ist okay",
+          "score": 2,
+          "nextQuestion": 8
+        },
+        {
+          "id": 23,
+          "text": "Eine H\u00e4lfte ist gut",
+          "score": 3,
+          "nextQuestion": 8
+        },
+        {
+          "id": 24,
+          "text": "Meistens bestelle ich Zitrone nach",
+          "score": 4,
+          "nextQuestion": 8
+        },
+        {
+          "id": 25,
+          "text": "Herr Ober, man reiche mir den Zitronenbaum",
+          "score": 5,
+          "nextQuestion": 8
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "position": 4,
+      "questionType": "MultiplePictureChoice",
+      "text": "Welchen Fruchtsacht trinkst du gerne?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 2.1",
+      "answers": [
+        {
+          "id": 26,
+          "text": "Bananensaft",
+          "score": 1,
+          "nextQuestion": 8,
+          "picture": "tailorwine_saft_banane.png"
+        },
+        {
+          "id": 27,
+          "text": "Birnensaft",
+          "score": 2,
+          "nextQuestion": 8,
+          "picture": "tailorwine_saft_birne01.png"
+        },
+        {
+          "id": 28,
+          "text": "Apfelsaft",
+          "score": 3,
+          "nextQuestion": 8,
+          "picture": "tailorwine_saft_apfel.png"
+        },
+        {
+          "id": 29,
+          "text": "Orangensaft \/ Kirschsaft",
+          "score": 4,
+          "nextQuestion": 8,
+          "picture": "tailorwine_saft_orange_kirsche.png"
+        },
+        {
+          "id": 30,
+          "text": "Maracuja \/ Ananassaft",
+          "score": 5,
+          "nextQuestion": 8,
+          "picture": "tailorwine_saft_ananas_maracuja.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "position": 5,
+      "questionType": "MultiplePictureChoice",
+      "text": "Wie scharf magst du dein Essen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 3",
+      "answers": [
+        {
+          "id": 31,
+          "text": "Mild",
+          "score": 1,
+          "nextQuestion": 9,
+          "picture": "tailorwine_chili00.png"
+        },
+        {
+          "id": 32,
+          "text": "Moderat",
+          "score": 2,
+          "nextQuestion": 9,
+          "picture": "tailorwine_chili01.png"
+        },
+        {
+          "id": 33,
+          "text": "Scharf",
+          "score": 3,
+          "nextQuestion": 9,
+          "picture": "tailorwine_chili02.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "position": 6,
+      "questionType": "BinaryChoice",
+      "text": "Konsumierst du Milch(-Produkte)?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 4",
+      "answers": [
+        {
+          "id": 34,
+          "text": "Ja",
+          "score": 1,
+          "nextQuestion": 10,
+          "picture": "tailorwine_ja.png"
+        },
+        {
+          "id": 35,
+          "text": "Nein",
+          "score": 2,
+          "nextQuestion": 11,
+          "picture": "tailorwine_nein.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "position": 7,
+      "questionType": "MultipleChoice",
+      "text": "Was magst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Stelle dir den Unterschied zwischen einem \u201eleichten\u201c und \u201evollen\u201c Wein wie den Unterschied zwischen Milch-Sorten vor. Welche w\u00fcrdest du w\u00e4hlen?",
+      "headline": "Frage 4.1",
+      "picture": "tailorwine_milch.png",
+      "answers": [
+        {
+          "id": 36,
+          "text": "Magermilch (0,1%)",
+          "score": 1,
+          "nextQuestion": 12
+        },
+        {
+          "id": 37,
+          "text": "Fettarme Milch (1,5%)",
+          "score": 2,
+          "nextQuestion": 12
+        },
+        {
+          "id": 38,
+          "text": "Vollmilch (3,5%)",
+          "score": 3,
+          "nextQuestion": 12
+        },
+        {
+          "id": 39,
+          "text": "Weidemilch (3,8%)",
+          "score": 4,
+          "nextQuestion": 12
+        },
+        {
+          "id": 40,
+          "text": "Gib mir die Schlagsahne",
+          "score": 5,
+          "nextQuestion": 12
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "position": 7,
+      "questionType": "MultipleChoice",
+      "text": "Was magst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Stelle dir den Unterschied zwischen einem \u201eschlanken\u201c und \u201evolumin\u00f6sen\u201c Wein wie den Unterschied zwischen Suppen vor. Welche w\u00fcrdest du w\u00e4hlen?",
+      "headline": "Frage 4.1",
+      "picture": "tailorwine_suppen.png",
+      "answers": [
+        {
+          "id": 41,
+          "text": "Leichte Gem\u00fcsebr\u00fche",
+          "score": 1,
+          "nextQuestion": 12
+        },
+        {
+          "id": 42,
+          "text": "Gem\u00fcsesuppe",
+          "score": 2,
+          "nextQuestion": 12
+        },
+        {
+          "id": 43,
+          "text": "Cremesuppe",
+          "score": 3,
+          "nextQuestion": 12
+        },
+        {
+          "id": 44,
+          "text": "Ramen",
+          "score": 4,
+          "nextQuestion": 12
+        },
+        {
+          "id": 45,
+          "text": "Bouillabaisse",
+          "score": 5,
+          "nextQuestion": 12
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "position": 8,
+      "questionType": "MultipleChoice",
+      "text": "Wie muss ein Parf\u00fcm f\u00fcr dich sein?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 5",
+      "picture": "tailorwine_parfum.png",
+      "answers": [
+        {
+          "id": 46,
+          "text": "Hauptsache dezent",
+          "score": 1,
+          "nextQuestion": 13
+        },
+        {
+          "id": 47,
+          "text": "Dezent & frisch",
+          "score": 2,
+          "nextQuestion": 13
+        },
+        {
+          "id": 48,
+          "text": "Fruchtig & s\u00fc\u00df",
+          "score": 3,
+          "nextQuestion": 13
+        },
+        {
+          "id": 49,
+          "text": "Intensiv & w\u00fcrzig",
+          "score": 4,
+          "nextQuestion": 13
+        },
+        {
+          "id": 50,
+          "text": "Viel hilft viel",
+          "score": 5,
+          "nextQuestion": 13
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "position": 9,
+      "questionType": "BinaryChoice",
+      "text": "Magst du Schokolade?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 6",
+      "answers": [
+        {
+          "id": 51,
+          "text": "Ja",
+          "score": 1,
+          "nextQuestion": 14,
+          "picture": "tailorwine_ja.png"
+        },
+        {
+          "id": 52,
+          "text": "Nein",
+          "score": 2,
+          "nextQuestion": 15,
+          "picture": "tailorwine_nein.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "position": 10,
+      "questionType": "MultiplePictureChoice",
+      "text": "Lieblingsschokolade?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "(wir wissen",
+      "headline": "Frage 6.1",
+      "answers": [
+        {
+          "id": 53,
+          "text": "Wei\u00dfe Schokolade",
+          "score": 1,
+          "nextQuestion": 17,
+          "picture": "tailorwine_schokolade_weiss.png"
+        },
+        {
+          "id": 54,
+          "text": "Vollmilch Schokolade",
+          "score": 2,
+          "nextQuestion": 17,
+          "picture": "tailorwine_schokolade_vollmilch.png"
+        },
+        {
+          "id": 55,
+          "text": "Halbbitter Schokolade",
+          "score": 3,
+          "nextQuestion": 17,
+          "picture": "tailorwine_schokolade_halbbitter.png"
+        },
+        {
+          "id": 56,
+          "text": "Zartbitter Schokolade",
+          "score": 4,
+          "nextQuestion": 17,
+          "picture": "tailorwine_schokolade_zartbitter.png"
+        },
+        {
+          "id": 57,
+          "text": "Sie muss min. 90% Kakao haben.",
+          "score": 5,
+          "nextQuestion": 17,
+          "picture": "tailorwine_schokolade_bitter.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "position": 10,
+      "questionType": "MultipleChoice",
+      "text": "Was w\u00fcrdest du tun?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Man kennt\u2019s",
+      "headline": "Frage 6.1",
+      "picture": "tailorwine_tea01.png",
+      "answers": [
+        {
+          "id": 58,
+          "text": "Ich sch\u00fctte ihn direkt weg",
+          "score": 1,
+          "nextQuestion": 17
+        },
+        {
+          "id": 59,
+          "text": "Ich s\u00fc\u00dfe den Tee und probier\\' ihn zu trinken",
+          "score": 2,
+          "nextQuestion": 17
+        },
+        {
+          "id": 60,
+          "text": "Ich qu\u00e4le mich durch, ohne zu s\u00fc\u00dfen",
+          "score": 3,
+          "nextQuestion": 17
+        },
+        {
+          "id": 61,
+          "text": "Bitter macht lustig. Ich trinke den Tee",
+          "score": 4,
+          "nextQuestion": 17
+        },
+        {
+          "id": 62,
+          "text": "Ich mag es bitter & stark",
+          "score": 5,
+          "nextQuestion": 17
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "position": 11,
+      "questionType": "MultiplePictureChoice",
+      "text": "Magst du lieber Rot- oder Wei\u00dfwein?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 7",
+      "answers": [
+        {
+          "id": 69,
+          "text": "Rot",
+          "score": 1,
+          "nextQuestion": 21,
+          "picture": "_tailorwine_quiz_wein_rot.png"
+        },
+        {
+          "id": 70,
+          "text": "Wei\u00df",
+          "score": 2,
+          "nextQuestion": 20,
+          "picture": "_tailorwine_quiz_wein_weiss.png"
+        },
+        {
+          "id": 71,
+          "text": "Beides",
+          "score": 3,
+          "nextQuestion": 22,
+          "picture": "_tailorwine_quiz_wein_beide.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "position": 12,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Vanille",
+      "headline": "Frage 7.1",
+      "picture": "_tailorwine_quiz_aromenweiss_vanille.png",
+      "answers": [
+        {
+          "id": 75,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 23
+        },
+        {
+          "id": 76,
+          "text": "Ja",
+          "score": 77,
+          "nextQuestion": 23
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "position": 12,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Vanille",
+      "headline": "Frage 7.1",
+      "picture": "_tailorwine_quiz_aromenweiss_vanille.png",
+      "answers": [
+        {
+          "id": 79,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 25
+        },
+        {
+          "id": 80,
+          "text": "Ja",
+          "score": 77,
+          "nextQuestion": 25
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "position": 12,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Vanille",
+      "headline": "Frage 7.1",
+      "picture": "_tailorwine_quiz_aromenrot_vanille.png",
+      "answers": [
+        {
+          "id": 77,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 24
+        },
+        {
+          "id": 78,
+          "text": "Ja",
+          "score": 77,
+          "nextQuestion": 24
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "position": 13,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Bl\u00fcten",
+      "headline": "Frage 7.2",
+      "picture": "_tailorwine_quiz_aromenweiss_blueten.png",
+      "answers": [
+        {
+          "id": 81,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 26
+        },
+        {
+          "id": 82,
+          "text": "Ja",
+          "score": 7,
+          "nextQuestion": 26
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "position": 13,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Marmelade",
+      "headline": "Frage 7.2",
+      "picture": "_tailorwine_quiz_aromenrot_marmelade.png",
+      "answers": [
+        {
+          "id": 83,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 27
+        },
+        {
+          "id": 84,
+          "text": "Ja",
+          "score": 45,
+          "nextQuestion": 27
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "position": 13,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Bl\u00fcten",
+      "headline": "Frage 7.2",
+      "picture": "_tailorwine_quiz_aromenweiss_blueten.png",
+      "answers": [
+        {
+          "id": 85,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 28
+        },
+        {
+          "id": 86,
+          "text": "Ja",
+          "score": 7,
+          "nextQuestion": 28
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "position": 14,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Apfel",
+      "headline": "Frage 7.3",
+      "picture": "_tailorwine_quiz_aromenweiss_apfelgruen.png",
+      "answers": [
+        {
+          "id": 87,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 29
+        },
+        {
+          "id": 88,
+          "text": "Ja",
+          "score": 12,
+          "nextQuestion": 29
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "position": 14,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Rote Kirsche",
+      "headline": "Frage 7.3",
+      "picture": "_tailorwine_quiz_aromenrot_rotekirsche.png",
+      "answers": [
+        {
+          "id": 89,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 30
+        },
+        {
+          "id": 90,
+          "text": "Ja",
+          "score": 117,
+          "nextQuestion": 30
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "position": 14,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Rote Kirsche",
+      "headline": "Frage 7.3",
+      "picture": "_tailorwine_quiz_aromenrot_rotekirsche.png",
+      "answers": [
+        {
+          "id": 91,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 31
+        },
+        {
+          "id": 92,
+          "text": "Ja",
+          "score": 117,
+          "nextQuestion": 31
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "position": 15,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Zitrone",
+      "headline": "Frage 7.4",
+      "picture": "_tailorwine_quiz_aromenweiss_zitrone.png",
+      "answers": [
+        {
+          "id": 93,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 32
+        },
+        {
+          "id": 94,
+          "text": "Ja",
+          "score": 18,
+          "nextQuestion": 32
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "position": 15,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Holz",
+      "headline": "Frage 7.4",
+      "picture": "_tailorwine_quiz_aromenrot_holz.png",
+      "answers": [
+        {
+          "id": 95,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 33
+        },
+        {
+          "id": 96,
+          "text": "Ja",
+          "score": 95,
+          "nextQuestion": 33
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "position": 15,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Zitrone",
+      "headline": "Frage 7.4",
+      "picture": "_tailorwine_quiz_aromenweiss_zitrone.png",
+      "answers": [
+        {
+          "id": 97,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 34
+        },
+        {
+          "id": 98,
+          "text": "Ja",
+          "score": 18,
+          "nextQuestion": 34
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "position": 16,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Schwarze Johannisbeere",
+      "headline": "Frage 7.5",
+      "picture": "_tailorwine_quiz_aromenrot_johannisbeere.png",
+      "answers": [
+        {
+          "id": 103,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 37
+        },
+        {
+          "id": 104,
+          "text": "Ja",
+          "score": 35,
+          "nextQuestion": 37
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "position": 16,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Schwarze Johannisbeere",
+      "headline": "Frage 7.5",
+      "picture": "_tailorwine_quiz_aromenrot_johannisbeere.png",
+      "answers": [
+        {
+          "id": 101,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 36
+        },
+        {
+          "id": 102,
+          "text": "Ja",
+          "score": 35,
+          "nextQuestion": 36
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "position": 16,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Melone",
+      "headline": "Frage 7.5",
+      "picture": "_tailorwine_quiz_aromenweiss_honigmelone.png",
+      "answers": [
+        {
+          "id": 99,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 35
+        },
+        {
+          "id": 100,
+          "text": "Ja",
+          "score": 121,
+          "nextQuestion": 35
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "position": 17,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Gew\u00fcrze",
+      "headline": "Frage 7.6",
+      "picture": "_tailorwine_quiz_aromenweiss_salzpfeffer.png",
+      "answers": [
+        {
+          "id": 105,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 38
+        },
+        {
+          "id": 106,
+          "text": "Ja",
+          "score": 54,
+          "nextQuestion": 38
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "position": 17,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Backgew\u00fcrze",
+      "headline": "Frage 7.6",
+      "picture": "_tailorwine_quiz_aromenrot_backgewuerze.png",
+      "answers": [
+        {
+          "id": 107,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 39
+        },
+        {
+          "id": 108,
+          "text": "Ja",
+          "score": 54,
+          "nextQuestion": 39
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "position": 17,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Gew\u00fcrze",
+      "headline": "Frage 7.6",
+      "picture": "_tailorwine_quiz_aromenweiss_salzpfeffer.png",
+      "answers": [
+        {
+          "id": 109,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 40
+        },
+        {
+          "id": 110,
+          "text": "Ja",
+          "score": 54,
+          "nextQuestion": 40
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "position": 18,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Pfirsich",
+      "headline": "Frage 7.7",
+      "picture": "_tailorwine_quiz_aromenweiss_pfirsich.png",
+      "answers": [
+        {
+          "id": 111,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 58
+        },
+        {
+          "id": 112,
+          "text": "Ja",
+          "score": 24,
+          "nextQuestion": 58
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "position": 18,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Himbeere",
+      "headline": "Frage 7.7",
+      "picture": "_tailorwine_quiz_aromenrot_himbeere.png",
+      "answers": [
+        {
+          "id": 113,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 41
+        },
+        {
+          "id": 114,
+          "text": "Ja",
+          "score": 135,
+          "nextQuestion": 41
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "position": 18,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Pfirsich",
+      "headline": "Frage 7.7",
+      "picture": "_tailorwine_quiz_aromenweiss_pfirsich.png",
+      "answers": [
+        {
+          "id": 115,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 58
+        },
+        {
+          "id": 116,
+          "text": "Ja",
+          "score": 24,
+          "nextQuestion": 58
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "position": 19,
+      "questionType": "SwipeChoice",
+      "text": "Magst du diese Aromen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "explanation": "Paprika",
+      "headline": "Frage 7.8",
+      "picture": "_tailorwine_quiz_aromenrot_paprika.png",
+      "answers": [
+        {
+          "id": 117,
+          "text": "Nein",
+          "score": 0,
+          "nextQuestion": 58
+        },
+        {
+          "id": 118,
+          "text": "Ja",
+          "score": 148,
+          "nextQuestion": 58
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "position": 20,
+      "questionType": "ProfileChoice",
+      "text": null,
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "answers": [
+        {
+          "id": 189,
+          "text": "Weine anzeigen",
+          "score": 0,
+          "nextQuestion": 59
+        },
+        {
+          "id": 190,
+          "text": "Weine zum Essen",
+          "score": 0,
+          "nextQuestion": 42
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "position": 21,
+      "questionType": "MultiplePictureChoice",
+      "text": "Zu welchem Gericht soll dein Wein passen?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8",
+      "answers": [
+        {
+          "id": 119,
+          "text": "Fleisch",
+          "score": 1,
+          "nextQuestion": 43,
+          "picture": "_tailorwine_quiz_gerichte_fleisch.png"
+        },
+        {
+          "id": 120,
+          "text": "Fisch & Meeresfr\u00fcchte",
+          "score": 41,
+          "nextQuestion": 44,
+          "picture": "_tailorwine_quiz_gerichte_fisch.png"
+        },
+        {
+          "id": 121,
+          "text": "Pizza & Pasta",
+          "score": 188,
+          "nextQuestion": 45,
+          "picture": "_tailorwine_quiz_gerichte_pizzapasta.png"
+        },
+        {
+          "id": 122,
+          "text": "Vegetarisch & Vegan",
+          "score": 205,
+          "nextQuestion": 46,
+          "picture": "_tailorwine_quiz_gerichte_salat.png"
+        },
+        {
+          "id": 123,
+          "text": "Dessert",
+          "score": 231,
+          "nextQuestion": 47,
+          "picture": "_tailorwine_quiz_gerichte_dessert.png"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "position": 22,
+      "questionType": "MultiplePictureChoice",
+      "text": "Lieber Fisch, Meeresfr\u00fcchte oder Sushi?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.1",
+      "answers": [
+        {
+          "id": 133,
+          "text": "Fisch",
+          "score": 42,
+          "nextQuestion": 49,
+          "picture": "_tailorwine_quiz_fischallg.png"
+        },
+        {
+          "id": 134,
+          "text": "Meeresfrucht",
+          "score": 43,
+          "nextQuestion": 50,
+          "picture": "_tailorwine_quiz_meeresfruechteallg.png"
+        },
+        {
+          "id": 135,
+          "text": "Muschel",
+          "score": 44,
+          "nextQuestion": 51,
+          "picture": "_tailorwine_quiz_muschelnallg.png"
+        },
+        {
+          "id": 136,
+          "text": "Sushi",
+          "score": 64,
+          "nextQuestion": 59,
+          "picture": "_tailorwine_quiz_sushiallg.png"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "position": 22,
+      "questionType": "MultipleChoice",
+      "text": "Welche Art von Dessert bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.1",
+      "picture": "_tailorwine_quiz_dessertallg.png",
+      "answers": [
+        {
+          "id": 148,
+          "text": "Schwer oder mit Schokolade",
+          "score": 232,
+          "nextQuestion": 55
+        },
+        {
+          "id": 149,
+          "text": "Leicht mit Fr\u00fcchten",
+          "score": 233,
+          "nextQuestion": 56
+        },
+        {
+          "id": 150,
+          "text": "Mehlspeisen, Kuchen, Patisserie, Geb\u00e4ck",
+          "score": 241,
+          "nextQuestion": 57
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "position": 22,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du deine Veggies?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.1",
+      "picture": "_tailorwine_quiz_veggiesallg.png",
+      "answers": [
+        {
+          "id": 139,
+          "text": "Gegrilltes Gem\u00fcse",
+          "score": 206,
+          "nextQuestion": 59
+        },
+        {
+          "id": 140,
+          "text": "Kartoffel",
+          "score": 207,
+          "nextQuestion": 59
+        },
+        {
+          "id": 141,
+          "text": "S\u00fc\u00dfkartoffel",
+          "score": 210,
+          "nextQuestion": 59
+        },
+        {
+          "id": 142,
+          "text": "Rattatouille",
+          "score": 211,
+          "nextQuestion": 59
+        },
+        {
+          "id": 143,
+          "text": "Tomatensalat",
+          "score": 212,
+          "nextQuestion": 59
+        },
+        {
+          "id": 144,
+          "text": "Spinat",
+          "score": 213,
+          "nextQuestion": 59
+        },
+        {
+          "id": 145,
+          "text": "Avocadosalat mit Gambas\/Krabben",
+          "score": 215,
+          "nextQuestion": 59
+        },
+        {
+          "id": 146,
+          "text": "Linsen",
+          "score": 217,
+          "nextQuestion": 59
+        },
+        {
+          "id": 147,
+          "text": "Hummus",
+          "score": 218,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "position": 22,
+      "questionType": "MultipleChoice",
+      "text": "Was bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.1",
+      "picture": "_tailorwine_quiz_gerichte_pizzapasta.png",
+      "answers": [
+        {
+          "id": 137,
+          "text": "Pizza",
+          "score": 188,
+          "nextQuestion": 52
+        },
+        {
+          "id": 138,
+          "text": "Pasta",
+          "score": 188,
+          "nextQuestion": 53
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "position": 22,
+      "questionType": "MultiplePictureChoice",
+      "text": "Welche Fleischsorte bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.1",
+      "answers": [
+        {
+          "id": 124,
+          "text": "Rind",
+          "score": 2,
+          "nextQuestion": 48,
+          "picture": "_tailorwine_quiz_fleisch_rind.png"
+        },
+        {
+          "id": 125,
+          "text": "Schwein",
+          "score": 6,
+          "nextQuestion": 60,
+          "picture": "_tailorwine_quiz_fleisch_schwein.png"
+        },
+        {
+          "id": 126,
+          "text": "Gefl\u00fcgel",
+          "score": 10,
+          "nextQuestion": 61,
+          "picture": "_tailorwine_quiz_fleisch_gefluegel.png"
+        },
+        {
+          "id": 127,
+          "text": "Wild",
+          "score": 27,
+          "nextQuestion": 62,
+          "picture": "_tailorwine_quiz_fleisch_wild.png"
+        },
+        {
+          "id": 128,
+          "text": "vom Grill",
+          "score": 35,
+          "nextQuestion": 63,
+          "picture": "_tailorwine_quiz_fleisch_grill.png"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Welches Gegrillte magst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "answers": [
+        {
+          "id": 200,
+          "text": "Spare Ribs",
+          "score": 36,
+          "nextQuestion": 59
+        },
+        {
+          "id": 201,
+          "text": "Innereien, Kalsbries, Leber\n",
+          "score": 37,
+          "nextQuestion": 59
+        },
+        {
+          "id": 202,
+          "text": "Gem\u00fcse, Gefl\u00fcgel oder Fisch",
+          "score": 38,
+          "nextQuestion": 59
+        },
+        {
+          "id": 203,
+          "text": "Shrimps",
+          "score": 39,
+          "nextQuestion": 59
+        },
+        {
+          "id": 205,
+          "text": "Hamburger",
+          "score": 36,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du dein Wild?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "answers": [
+        {
+          "id": 197,
+          "text": "Gegrillt",
+          "score": 28,
+          "nextQuestion": 59
+        },
+        {
+          "id": 198,
+          "text": "Geschmort",
+          "score": 29,
+          "nextQuestion": 59
+        },
+        {
+          "id": 199,
+          "text": "Gekocht",
+          "score": 30,
+          "nextQuestion": 59
+        },
+        {
+          "id": 204,
+          "text": "Gebraten",
+          "score": 28,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du dein Gefl\u00fcgel?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "answers": [
+        {
+          "id": 191,
+          "text": "Gegrillt",
+          "score": 12,
+          "nextQuestion": 59
+        },
+        {
+          "id": 192,
+          "text": "Gebraten",
+          "score": 13,
+          "nextQuestion": 59
+        },
+        {
+          "id": 193,
+          "text": "Gekocht",
+          "score": 14,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du dein Schwein?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "answers": [
+        {
+          "id": 194,
+          "text": "Gegrillt",
+          "score": 7,
+          "nextQuestion": 59
+        },
+        {
+          "id": 195,
+          "text": "Kurz gebraten",
+          "score": 8,
+          "nextQuestion": 59
+        },
+        {
+          "id": 196,
+          "text": "Schweinefilet",
+          "score": 9,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Was bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_dessertallg.png",
+      "answers": [
+        {
+          "id": 183,
+          "text": "Apfelkuchen oder Apfeltartlettes",
+          "score": 242,
+          "nextQuestion": 59
+        },
+        {
+          "id": 184,
+          "text": "Bl\u00e4tterteiggeb\u00e4ck",
+          "score": 243,
+          "nextQuestion": 59
+        },
+        {
+          "id": 185,
+          "text": "Buttergeb\u00e4ck",
+          "score": 244,
+          "nextQuestion": 59
+        },
+        {
+          "id": 186,
+          "text": "Vanillekipferl",
+          "score": 244,
+          "nextQuestion": 59
+        },
+        {
+          "id": 187,
+          "text": "Fr\u00fcchtekuchen",
+          "score": 245,
+          "nextQuestion": 59
+        },
+        {
+          "id": 188,
+          "text": "Teekuchen",
+          "score": 245,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Was bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_dessertallg.png",
+      "answers": [
+        {
+          "id": 179,
+          "text": "Obst",
+          "score": 234,
+          "nextQuestion": 59
+        },
+        {
+          "id": 180,
+          "text": "Obstsalat",
+          "score": 234,
+          "nextQuestion": 59
+        },
+        {
+          "id": 181,
+          "text": "Fr\u00fcchtekompott",
+          "score": 237,
+          "nextQuestion": 59
+        },
+        {
+          "id": 182,
+          "text": "Erdbeeren",
+          "score": 236,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Was bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_dessertallg.png",
+      "answers": [
+        {
+          "id": 177,
+          "text": "Mousse au Chololat",
+          "score": 238,
+          "nextQuestion": 59
+        },
+        {
+          "id": 178,
+          "text": "Sahnige Desserts",
+          "score": 240,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du deine Pasta?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_pasta02.png",
+      "answers": [
+        {
+          "id": 170,
+          "text": "Pasta mit Tomatensauce",
+          "score": 194,
+          "nextQuestion": 59
+        },
+        {
+          "id": 171,
+          "text": "Pasta mit Pesto",
+          "score": 195,
+          "nextQuestion": 59
+        },
+        {
+          "id": 172,
+          "text": "Pasta mit Oliven\u00f6l, frische Kr\u00e4uter und Parmesan",
+          "score": 196,
+          "nextQuestion": 59
+        },
+        {
+          "id": 173,
+          "text": "Pasta mit Fischsauce \/ Muscheln",
+          "score": 197,
+          "nextQuestion": 59
+        },
+        {
+          "id": 174,
+          "text": "Pasta mit Fleischsauce",
+          "score": 198,
+          "nextQuestion": 59
+        },
+        {
+          "id": 175,
+          "text": "Pasta mit Sahnesaucen, Carbonara, Pasta Alfredo",
+          "score": 199,
+          "nextQuestion": 59
+        },
+        {
+          "id": 176,
+          "text": "Lasagne",
+          "score": 200,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du deine Pizza?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_pizza.png",
+      "answers": [
+        {
+          "id": 162,
+          "text": "Pizza mit Tomaten und K\u00e4se",
+          "score": 189,
+          "nextQuestion": 59
+        },
+        {
+          "id": 163,
+          "text": "Pizza mit Oliven\u00f6l, Parmesan und Kr\u00e4uter",
+          "score": 193,
+          "nextQuestion": 59
+        },
+        {
+          "id": 164,
+          "text": "Pizza mit Pilze",
+          "score": 190,
+          "nextQuestion": 59
+        },
+        {
+          "id": 165,
+          "text": "Pizza mit Meeresfr\u00fcchte oder Muscheln",
+          "score": 192,
+          "nextQuestion": 59
+        },
+        {
+          "id": 166,
+          "text": "Pizza mit Zwiebeln",
+          "score": 191,
+          "nextQuestion": 59
+        },
+        {
+          "id": 167,
+          "text": "Quiche Lorraine",
+          "score": 188,
+          "nextQuestion": 59
+        },
+        {
+          "id": 168,
+          "text": "Quiche mit Spargel oder Spinat",
+          "score": 220,
+          "nextQuestion": 59
+        },
+        {
+          "id": 169,
+          "text": "Zwiebelkuchen",
+          "score": 219,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Welche Muschel bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_muschelnallg.png",
+      "answers": [
+        {
+          "id": 159,
+          "text": "Austern",
+          "score": 61,
+          "nextQuestion": 59
+        },
+        {
+          "id": 160,
+          "text": "Venusmuschel",
+          "score": 62,
+          "nextQuestion": 59
+        },
+        {
+          "id": 161,
+          "text": "Miesmuschel",
+          "score": 63,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Welche Meeresfrucht bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_meeresfruechteallg.png",
+      "answers": [
+        {
+          "id": 155,
+          "text": "Krebs",
+          "score": 57,
+          "nextQuestion": 59
+        },
+        {
+          "id": 156,
+          "text": "Hummer",
+          "score": 58,
+          "nextQuestion": 59
+        },
+        {
+          "id": 157,
+          "text": "Shrimps",
+          "score": 59,
+          "nextQuestion": 59
+        },
+        {
+          "id": 158,
+          "text": "Krabbe",
+          "score": 60,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Welchen Fisch bevorzugst du?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "picture": "_tailorwine_quiz_fischallg.png",
+      "answers": [
+        {
+          "id": 151,
+          "text": "Heilbutt",
+          "score": 45,
+          "nextQuestion": 59
+        },
+        {
+          "id": 152,
+          "text": "Dorsch",
+          "score": 46,
+          "nextQuestion": 59
+        },
+        {
+          "id": 153,
+          "text": "Lachs",
+          "score": 47,
+          "nextQuestion": 59
+        },
+        {
+          "id": 154,
+          "text": "Schwertfisch",
+          "score": 48,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "position": 23,
+      "questionType": "MultipleChoice",
+      "text": "Wie magst du dein Rind?",
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "headline": "Frage 8.2",
+      "answers": [
+        {
+          "id": 129,
+          "text": "Gegrillt oder Kurzgebraten",
+          "score": 3,
+          "nextQuestion": 59
+        },
+        {
+          "id": 130,
+          "text": "Geschmort",
+          "score": 4,
+          "nextQuestion": 59
+        },
+        {
+          "id": 131,
+          "text": "Gekocht & mariniert",
+          "score": 5,
+          "nextQuestion": 59
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "position": 24,
+      "questionType": "ResultChoice",
+      "text": null,
+      "matches": [
+        {
+          "name": "",
+          "points": []
+        }
+      ],
+      "answers": []
+    }
+  ],
+  "url": ""
+}
